@@ -1,0 +1,6 @@
+- id: rustfmt
+  name: rustfmt
+  description: "A tool for formatting Rust code according to style guidelines."
+  entry: rustfmt
+  language: rust
+  types: [rust]
